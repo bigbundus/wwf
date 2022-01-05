@@ -1,0 +1,9 @@
+Scrabble/WWF Assistant
+
+Meant to be used alongside a game of mobile scrabble/wwf
+
+start with an empty board
+enter moves manually up to current state
+enter hand manually
+generate plays + sort by score to get best possible move
+(to many to search exhaustively in most cases, but can get smart about search strategy)
